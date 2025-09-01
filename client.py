@@ -1,6 +1,6 @@
 import sys, requests, os
 
-api_url = sys.argv[1] if len(sys.argv) > 1 else "http://127.0.0.1:8000/report"
+api_url = sys.argv[1] if len(sys.argv) > 1 else "https://turnover-report-vbs.azurewebsites.net/report"
 json_path = sys.argv[2] if len(sys.argv) > 2 else "turnover.json"
 out_path  = sys.argv[3] if len(sys.argv) > 3 else "turnover-report.xlsx"
 
