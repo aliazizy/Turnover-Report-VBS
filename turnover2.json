@@ -1,0 +1,1183 @@
+{
+  "dateTimeUser": "01/09/2025 10:07 Ali Azizi          *** Test system - only for evaluation purposes ***",
+  "caption": "Turnover Report",
+  "legend": [{ "label": "Invoice date", "value": "01/01/2025 - 01/12/2025" }],
+  "columns": [
+    { "name": "partner", "caption": "Customer" },
+    { "name": "partnerName12", "caption": "Name" },
+    { "name": "invamountSysCurTotal", "caption": "Turnover\r\nEUR" },
+    { "name": "turnoverPercentage", "caption": "%" }
+  ],
+  "rows": [
+    {
+      "partner": "CYTCHI",
+      "partnerName12": "CYTS Xinyu (Beijing) Tourism Co. Ltd.,",
+      "invamountSysCurTotal": 1256131.5799999998,
+      "turnoverPercentage": 6.4
+    },
+    {
+      "partner": "BAMCHI",
+      "partnerName12": "China Bamboo Garden International Travel Service Co. LTD",
+      "invamountSysCurTotal": 1028367.4500000001,
+      "turnoverPercentage": 5.2
+    },
+    {
+      "partner": "EUHSIN",
+      "partnerName12": "EU Holidays Pte Ltd",
+      "invamountSysCurTotal": 1009340.1500000001,
+      "turnoverPercentage": 5.1
+    },
+    {
+      "partner": "WTVTHA",
+      "partnerName12": "World Traveller Agency Co., Ltd.",
+      "invamountSysCurTotal": 992060.68,
+      "turnoverPercentage": 5
+    },
+    {
+      "partner": "SETTAI",
+      "partnerName12": "South East Travel Service",
+      "invamountSysCurTotal": 494879.84,
+      "turnoverPercentage": 2.5
+    },
+    {
+      "partner": "CATISR",
+      "partnerName12": "Caspi Aviation Tour Operator",
+      "invamountSysCurTotal": 484389.13,
+      "turnoverPercentage": 2.5
+    },
+    {
+      "partner": "TKTTAI",
+      "partnerName12": "Supreme Tour",
+      "invamountSysCurTotal": 391588.14999999997,
+      "turnoverPercentage": 2
+    },
+    {
+      "partner": "HOGIDN",
+      "partnerName12": "Holy Global Tour PT Global Ziarah Wisata",
+      "invamountSysCurTotal": 353923.6,
+      "turnoverPercentage": 1.8
+    },
+    {
+      "partner": "AVETHA",
+      "partnerName12": "Avenue Inter Travel Group Co., Ltd",
+      "invamountSysCurTotal": 325262.80999999994,
+      "turnoverPercentage": 1.7
+    },
+    {
+      "partner": "STEIDN",
+      "partnerName12": "PT STELLA KWARTA WISATA",
+      "invamountSysCurTotal": 325044.4,
+      "turnoverPercentage": 1.7
+    },
+    {
+      "partner": "HCGCHI",
+      "partnerName12": "Shanghai HCG International Travel Co.,Ltd",
+      "invamountSysCurTotal": 312446.1,
+      "turnoverPercentage": 1.6
+    },
+    {
+      "partner": "RMTTAI",
+      "partnerName12": "Richmond Tours",
+      "invamountSysCurTotal": 310173.8,
+      "turnoverPercentage": 1.6
+    },
+    {
+      "partner": "OPHISR",
+      "partnerName12": "Ophir Tours",
+      "invamountSysCurTotal": 280762.5,
+      "turnoverPercentage": 1.4
+    },
+    {
+      "partner": "HOVIDN",
+      "partnerName12": "Holy Victory Tour",
+      "invamountSysCurTotal": 253820.85,
+      "turnoverPercentage": 1.3
+    },
+    {
+      "partner": "WEBIDN",
+      "partnerName12": "We Buy Tour \u0026 Travel",
+      "invamountSysCurTotal": 241820.45,
+      "turnoverPercentage": 1.2
+    },
+    {
+      "partner": "FEEUKR",
+      "partnerName12": "FEERIA LLC Agreement N19/05/23",
+      "invamountSysCurTotal": 224994.48,
+      "turnoverPercentage": 1.1
+    },
+    {
+      "partner": "ESHISR",
+      "partnerName12": "Eshet Tours",
+      "invamountSysCurTotal": 223083.27999999997,
+      "turnoverPercentage": 1.1
+    },
+    {
+      "partner": "BLEVIE",
+      "partnerName12": "LK Travel and Services",
+      "invamountSysCurTotal": 200192.5,
+      "turnoverPercentage": 1
+    },
+    {
+      "partner": "OWTTHA",
+      "partnerName12": "One World Tour \u0026 Travel Company Limited",
+      "invamountSysCurTotal": 193726.23,
+      "turnoverPercentage": 1
+    },
+    {
+      "partner": "ONETAI",
+      "partnerName12": "Tour One",
+      "invamountSysCurTotal": 190165.48,
+      "turnoverPercentage": 1
+    },
+    {
+      "partner": "IMPLAT",
+      "partnerName12": "Impro Celojumi LTD",
+      "invamountSysCurTotal": 187821.62,
+      "turnoverPercentage": 1
+    },
+    {
+      "partner": "NDMUSA",
+      "partnerName12": "Notre Dame Tours",
+      "invamountSysCurTotal": 186884.5,
+      "turnoverPercentage": 1
+    },
+    {
+      "partner": "WWMMAL",
+      "partnerName12": "WWM Travel (M) Sdn Bhd",
+      "invamountSysCurTotal": 186473.7,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "MCLTHA",
+      "partnerName12": "M World Class Travel Co., Ltd.",
+      "invamountSysCurTotal": 179452.62,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "PANIDN",
+      "partnerName12": "Panorama JTB PT.Panorama JTB Tours Indonesia",
+      "invamountSysCurTotal": 178523,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "DLVVIE",
+      "partnerName12": "Du Lich Viet",
+      "invamountSysCurTotal": 177651,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "RIMISR",
+      "partnerName12": "Rimon Tours",
+      "invamountSysCurTotal": 174064.59,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "ICNIDN",
+      "partnerName12": "Icon Holiday PT. INTER CONTINENT INDONESIA TOUR \u0026 TRAVEL",
+      "invamountSysCurTotal": 173690.94,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "EVTVIE",
+      "partnerName12": "En Viet",
+      "invamountSysCurTotal": 172789,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "STTVIE",
+      "partnerName12": "SaigonTourist Travel Service Co,. LTD Hanoi Branch",
+      "invamountSysCurTotal": 170546,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "STWCHI",
+      "partnerName12": "Beijing Step The World International Travel \u0026#21271;\u0026#20140;\u0026#34892;\u0026#22825;\u0026#19979;",
+      "invamountSysCurTotal": 168429.07,
+      "turnoverPercentage": 0.9
+    },
+    {
+      "partner": "VIPVIE",
+      "partnerName12": "VN World Travel",
+      "invamountSysCurTotal": 165244.45,
+      "turnoverPercentage": 0.8
+    },
+    {
+      "partner": "SKYBRA",
+      "partnerName12": "SKY TEAM AGENCIA DE VIAGENS E TURISMO LTDA CNPJ 03.007.698/0001-65",
+      "invamountSysCurTotal": 162316,
+      "turnoverPercentage": 0.8
+    },
+    {
+      "partner": "JGWIDN",
+      "partnerName12": "Jasa Global Wisata",
+      "invamountSysCurTotal": 161494.28000000003,
+      "turnoverPercentage": 0.8
+    },
+    {
+      "partner": "VEXTHA",
+      "partnerName12": "E-Skylink Travel Ltd., Part. 240 Charoenrat7, Bangkhlo,",
+      "invamountSysCurTotal": 161297.21000000002,
+      "turnoverPercentage": 0.8
+    },
+    {
+      "partner": "TAICAN",
+      "partnerName12": "Taipan Tours",
+      "invamountSysCurTotal": 150872,
+      "turnoverPercentage": 0.8
+    },
+    {
+      "partner": "LIOTAI",
+      "partnerName12": "Lion Travel Service Co., Ltd.",
+      "invamountSysCurTotal": 146621.9,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "TCOIDN",
+      "partnerName12": "Travel Connexions PT. Pariwisata Permata Cemerlang",
+      "invamountSysCurTotal": 141395.4,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "BTTMAL",
+      "partnerName12": "Bestour EU-US Sdn Bhd",
+      "invamountSysCurTotal": 139487,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "TMEIDN",
+      "partnerName12": "Travel Mate",
+      "invamountSysCurTotal": 137320.91999999998,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "INTGER",
+      "partnerName12": "interAir GmbH",
+      "invamountSysCurTotal": 133090.13999999998,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "PTATAI",
+      "partnerName12": "Perfect Travel Agency LTD",
+      "invamountSysCurTotal": 132529.02,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "STLTHA",
+      "partnerName12": "Smart Tour \u0026 Leisure Co.,Ltd. 104/3 Soi Ekachai 52,",
+      "invamountSysCurTotal": 129584.1,
+      "turnoverPercentage": 0.7
+    },
+    {
+      "partner": "HUQCHI",
+      "partnerName12": "China International Travel Service(Beijing) Travel Service Co., Ltd",
+      "invamountSysCurTotal": 120363.66,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "YAMVIE",
+      "partnerName12": "You \u0026 Me Travel .,JSC",
+      "invamountSysCurTotal": 119946.03,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "CTRTHA",
+      "partnerName12": "C-Trip Travel Service Ltd.,Part",
+      "invamountSysCurTotal": 118376.36,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "YOUCHI",
+      "partnerName12": "United (Beijing) International Travel Service Co., Ltd",
+      "invamountSysCurTotal": 117132.98,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "CISURY",
+      "partnerName12": "CISPLATINA TURISMO",
+      "invamountSysCurTotal": 115367.73,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "ALTIDN",
+      "partnerName12": "Altorina Wijaya Tour and Travel Services",
+      "invamountSysCurTotal": 110349,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "SMTIDN",
+      "partnerName12": "Smailing Tours \u0026 Travel Services",
+      "invamountSysCurTotal": 108193,
+      "turnoverPercentage": 0.6
+    },
+    {
+      "partner": "GLLIDN",
+      "partnerName12": "Galileo Tours \u0026 Travel",
+      "invamountSysCurTotal": 106465.8,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "TURBRA",
+      "partnerName12": "TURKIA VIAGENS",
+      "invamountSysCurTotal": 105938,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "WOPCAM",
+      "partnerName12": "WORLD POP TRAVEL-TOURS GROUP CO., LTD.",
+      "invamountSysCurTotal": 104725.7,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "TFHTHA",
+      "partnerName12": "TOP FIVE HOLIDAY 101/141 MOO 4",
+      "invamountSysCurTotal": 104278.95,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "GZLCHI",
+      "partnerName12": "CredGZL International Travel Service LTD.",
+      "invamountSysCurTotal": 102465,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "TSTVIE",
+      "partnerName12": "TST Tourist Service \u0026 Trading Corp",
+      "invamountSysCurTotal": 101880.6,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "LEIHKG",
+      "partnerName12": "Leisure Journey (HK) Co. Limited",
+      "invamountSysCurTotal": 100095.81,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "PROTAI",
+      "partnerName12": "PRO Tour",
+      "invamountSysCurTotal": 98315.7,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "SDYTAI",
+      "partnerName12": "Sunday tour",
+      "invamountSysCurTotal": 96856.75,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "SALCHI",
+      "partnerName12": "Shanghai Airlines Tours International (Group) Co. LTD",
+      "invamountSysCurTotal": 94749.68,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "LLVCAN",
+      "partnerName12": "Long Long Vacation Ltd.",
+      "invamountSysCurTotal": 94586,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "GSTBRA",
+      "partnerName12": "GSTravel Tour Operadora",
+      "invamountSysCurTotal": 93448,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "POTTHA",
+      "partnerName12": "POKA Organize And Travel Co., Ltd.",
+      "invamountSysCurTotal": 93030,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "BTCTHA",
+      "partnerName12": "Bangkok Travel Club Co.,Ltd",
+      "invamountSysCurTotal": 90297.77,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "EDIIDN",
+      "partnerName12": "PT. Edigo Jaya Internasional (Edigo Travel)",
+      "invamountSysCurTotal": 89122.5,
+      "turnoverPercentage": 0.5
+    },
+    {
+      "partner": "PHOTAI",
+      "partnerName12": "Phoenix Tours",
+      "invamountSysCurTotal": 85323.5,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "BABVIE",
+      "partnerName12": "ASIA TRAVEL \u0026 CNS COROPERATIONOMMUNICATION",
+      "invamountSysCurTotal": 83253.930000000008,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "NMTMYA",
+      "partnerName12": "New Motion Travels and Tours",
+      "invamountSysCurTotal": 82122.16,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "YSTTAI",
+      "partnerName12": "Yung Shin Travel",
+      "invamountSysCurTotal": 80801.5,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "BUIVIE",
+      "partnerName12": "Mai Tours",
+      "invamountSysCurTotal": 78022,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "PSBTHA",
+      "partnerName12": "PROUD STUDIO \u0026 BUSINESS",
+      "invamountSysCurTotal": 76898,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "CHITAI",
+      "partnerName12": "Times Travel Service",
+      "invamountSysCurTotal": 76166,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "FSJTHA",
+      "partnerName12": "Formosa Journey Land Co.,Ltd.",
+      "invamountSysCurTotal": 73339.96,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "ETSTAI",
+      "partnerName12": "Eminent Travel Service Co.,Ltd",
+      "invamountSysCurTotal": 72926.73,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "HYPMAL",
+      "partnerName12": "HYPE DMC",
+      "invamountSysCurTotal": 70586,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "TYUTAI",
+      "partnerName12": "Taiyuan Travel Service Co., Ltd",
+      "invamountSysCurTotal": 69918.48,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "HITTAI",
+      "partnerName12": "Hi Lite Tours",
+      "invamountSysCurTotal": 68918.87,
+      "turnoverPercentage": 0.4
+    },
+    {
+      "partner": "AYOIDN",
+      "partnerName12": "Ayo Wisata PT. Globalindo Kreasi Wisata",
+      "invamountSysCurTotal": 68599,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "TLPVIE",
+      "partnerName12": "Thang Long Travel US",
+      "invamountSysCurTotal": 68075,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "BUTTHA",
+      "partnerName12": "BUTTERFLY TOURS",
+      "invamountSysCurTotal": 67866,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "SPCTAI",
+      "partnerName12": "Space Tours Travel Services Co. Ltd.",
+      "invamountSysCurTotal": 67127.48,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "CTPSIN",
+      "partnerName12": "Citystate Travel Pte Ltd",
+      "invamountSysCurTotal": 67064.49,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "UMTVIE",
+      "partnerName12": "Sun Travel USA",
+      "invamountSysCurTotal": 62508.66,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "THEIDN",
+      "partnerName12": "Thema Wisata International",
+      "invamountSysCurTotal": 62145.5,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "XMSIDN",
+      "partnerName12": "xmasindo CHRISTMAS CONSULTANT AND INCENTIVE ORGANIZER",
+      "invamountSysCurTotal": 61655,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "DOTTAI",
+      "partnerName12": "Dot Com Holiday",
+      "invamountSysCurTotal": 61654,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "QSBBRA",
+      "partnerName12": "Queensberry Viagens",
+      "invamountSysCurTotal": 61575,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "TRNBRA",
+      "partnerName12": "TWTS VIAGENS E TURISMO LTDA CNPJ: 43.714.397/0001-96",
+      "invamountSysCurTotal": 59845,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "WSTTHA",
+      "partnerName12": "World Surprise Travel Co., Ltd.",
+      "invamountSysCurTotal": 58844.5,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "CPISIN",
+      "partnerName12": "CPI TRAVEL PTE LTD",
+      "invamountSysCurTotal": 58751,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "HKCCHI",
+      "partnerName12": "SHANGHAI HKC INTERNATIONAL TRAVEL SERVICE CO.,LTD",
+      "invamountSysCurTotal": 58666.1,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "AMTIDN",
+      "partnerName12": "Amora Tour Kompleks Ruko Grand Palace",
+      "invamountSysCurTotal": 58475,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "DAMTAI",
+      "partnerName12": "Damei Travel Service Co., Ltd",
+      "invamountSysCurTotal": 56497.11,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "CAWIDN",
+      "partnerName12": "Cakra Wisata",
+      "invamountSysCurTotal": 56324,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "CMPTHA",
+      "partnerName12": "Compass Trip Company Limited",
+      "invamountSysCurTotal": 55911,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "TRAVIE",
+      "partnerName12": "Transviet Travel Co., LTD",
+      "invamountSysCurTotal": 55250,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "UPICHI",
+      "partnerName12": "Shanghai Youpai International Travel Service Co.,Ltd",
+      "invamountSysCurTotal": 54701.38,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "ABCTAI",
+      "partnerName12": "ABC Tours",
+      "invamountSysCurTotal": 54264.4,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "RAPIDN",
+      "partnerName12": "Raptim Tour and Travel",
+      "invamountSysCurTotal": 53726.5,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "RBTTHA",
+      "partnerName12": "Ruby Travel Co.,Ltd",
+      "invamountSysCurTotal": 53687,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "GTGTHA",
+      "partnerName12": "Go Together Travel Company Limited",
+      "invamountSysCurTotal": 53509,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "GRAIDN",
+      "partnerName12": "Gracia Tour \u0026 Travel",
+      "invamountSysCurTotal": 52234,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "GESISR",
+      "partnerName12": "Gesher Tours Israel",
+      "invamountSysCurTotal": 51051.5,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "BINMAL",
+      "partnerName12": "BINGO TRAVEL SDN BHD",
+      "invamountSysCurTotal": 50699.23,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "MULPHI",
+      "partnerName12": "MULTI DESTINATIONS Travel \u0026 Tours",
+      "invamountSysCurTotal": 50323.44,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "STOCHI",
+      "partnerName12": "Start Ocean",
+      "invamountSysCurTotal": 50158.68,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "OBTIDN",
+      "partnerName12": "Obaja Tour PT. Bet OBAJA International (OBAJA tour)",
+      "invamountSysCurTotal": 49928.31,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "OMGIDN",
+      "partnerName12": "Omega Tour \u0026 Travel",
+      "invamountSysCurTotal": 49800,
+      "turnoverPercentage": 0.3
+    },
+    {
+      "partner": "VOTVIE",
+      "partnerName12": "V-ONE Travel",
+      "invamountSysCurTotal": 45731.9,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "BCJTHA",
+      "partnerName12": "B.C. Journey Co.,Ltd 39/244 Casa Grand On Nut-Wongwaen",
+      "invamountSysCurTotal": 45351.020000000004,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "FOLTHA",
+      "partnerName12": "Follow Me Holiday Co.,Ltd. 9/27 WORK PLACE",
+      "invamountSysCurTotal": 44866.890000000007,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "ZGOTHA",
+      "partnerName12": "Zego Travel Co., Ltd.",
+      "invamountSysCurTotal": 44498.130000000005,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "LVTTAI",
+      "partnerName12": "Love Tours",
+      "invamountSysCurTotal": 43357.41,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "TEZIDN",
+      "partnerName12": "Trip Tour PT TRIP TOUR TRAVEL",
+      "invamountSysCurTotal": 43354.149999999994,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "NOWCHI",
+      "partnerName12": "Beijing New Oriental Walkite International Education Travel",
+      "invamountSysCurTotal": 43303.6,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "IRMMAL",
+      "partnerName12": "Irama Travel \u0026 Tours Sdn Bhd",
+      "invamountSysCurTotal": 42831,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "SKPCAM",
+      "partnerName12": "SKP TRAVEL CO LTD",
+      "invamountSysCurTotal": 42345.82,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "SUTTHA",
+      "partnerName12": "Supertrips Co., Ltd.",
+      "invamountSysCurTotal": 42331,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "ETGCHI",
+      "partnerName12": "HCG international travel Group Co., LTD Guangzhou Branch",
+      "invamountSysCurTotal": 41696,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "SHRIDN",
+      "partnerName12": "Sharon Tour",
+      "invamountSysCurTotal": 41048,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "GLDIDN",
+      "partnerName12": "Golden Rama Tour",
+      "invamountSysCurTotal": 40389.299999999996,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "AGHVIE",
+      "partnerName12": "Asia Gate Travel JSC",
+      "invamountSysCurTotal": 40309.4,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "KKDTHA",
+      "partnerName12": "KHEMKWAMDEE CO.,LTD",
+      "invamountSysCurTotal": 40066.99,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "GITMAL",
+      "partnerName12": "Git Tours \u0026 Travels Sdn. Bhd.",
+      "invamountSysCurTotal": 39970,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "DLXVIE",
+      "partnerName12": "Gia Linh Travel Company Limited",
+      "invamountSysCurTotal": 39047,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "BTTVIE",
+      "partnerName12": "Ben Thanh Tourist",
+      "invamountSysCurTotal": 38950,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "CHRIDN",
+      "partnerName12": "CHERIA HALAL HOLIDAY",
+      "invamountSysCurTotal": 38049.2,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "PERUSA",
+      "partnerName12": "Perillo Tours",
+      "invamountSysCurTotal": 37923,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "CYGCHI",
+      "partnerName12": "Guangdong China Youth Travel Service Co.,Ltd.",
+      "invamountSysCurTotal": 37788,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "DETIDN",
+      "partnerName12": "De Travellers Choice Jl Gunung Pangrango 187",
+      "invamountSysCurTotal": 36094.52,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "GFTTAI",
+      "partnerName12": "Golden Formosa Travel services",
+      "invamountSysCurTotal": 35865.9,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "SPXTHA",
+      "partnerName12": "Siam Pacific Express Ltd., Part.",
+      "invamountSysCurTotal": 35704,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "TRPTHA",
+      "partnerName12": "Treasure Planet Co.,Ltd",
+      "invamountSysCurTotal": 35320,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "GRNIDN",
+      "partnerName12": "PT MEGAH BERKAT SEMESTA (GRANDE TOUR)",
+      "invamountSysCurTotal": 35264.5,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "VGTVIE",
+      "partnerName12": "Viet Global Travel",
+      "invamountSysCurTotal": 33905.8,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "MINVIE",
+      "partnerName12": "VITAMIN Tours Services Co., LTD Vitamin Tours",
+      "invamountSysCurTotal": 33640,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "OPEMEX",
+      "partnerName12": "Operadora Concierge Travel",
+      "invamountSysCurTotal": 32300,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "BSTTHA",
+      "partnerName12": "Best International Travel \u0026 Agency Co.,Ltd",
+      "invamountSysCurTotal": 32055,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "JIACHI",
+      "partnerName12": "Huaxindongfang International Tours Co.,Ltd \u0026#21326;\u0026#20449;\u0026#19996;\u0026#26041;",
+      "invamountSysCurTotal": 29820,
+      "turnoverPercentage": 0.2
+    },
+    {
+      "partner": "NHEHKG",
+      "partnerName12": "NHE Travel",
+      "invamountSysCurTotal": 28755,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "EHCTHA",
+      "partnerName12": "Express Holiday Center Co., Ltd.",
+      "invamountSysCurTotal": 27000,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "MNGTUR",
+      "partnerName12": "MNG Turizm",
+      "invamountSysCurTotal": 26869.24,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "ITTIDN",
+      "partnerName12": "PT Interlink Tours \u0026 Travel",
+      "invamountSysCurTotal": 24725,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "ARTTAI",
+      "partnerName12": "Artisan Express Inc.",
+      "invamountSysCurTotal": 24159,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "BTRIDN",
+      "partnerName12": "BEYOND TRAVELINDO",
+      "invamountSysCurTotal": 24100,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "STATAI",
+      "partnerName12": "Star Travel Service Corp.",
+      "invamountSysCurTotal": 23946.64,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "ANOBRA",
+      "partnerName12": "ANO 3 VIAGENS",
+      "invamountSysCurTotal": 23930,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "VWLTHA",
+      "partnerName12": "V Wonderland Co.,Ltd.",
+      "invamountSysCurTotal": 23605.6,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "TTTVIE",
+      "partnerName12": "Top Ten Travel",
+      "invamountSysCurTotal": 22590.8,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "EURAUS",
+      "partnerName12": "Europe Holidays",
+      "invamountSysCurTotal": 21833.13,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "CTPCHI",
+      "partnerName12": "Ctrip Travel Holding (Hong Kong) Limited",
+      "invamountSysCurTotal": 21777,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "PONBRA",
+      "partnerName12": "Ponto Operadora de Turismo",
+      "invamountSysCurTotal": 21480,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "PTPVIE",
+      "partnerName12": "Phoenix Travel CZ",
+      "invamountSysCurTotal": 20955.2,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "KIMIDN",
+      "partnerName12": "KIM TRAVEL PT ALKIM NUSANTARA TOUR \u0026 TRAVEL",
+      "invamountSysCurTotal": 20686,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "BGLGER",
+      "partnerName12": "Bengel Reisen GmbH \u0026 Co KG",
+      "invamountSysCurTotal": 19945.46,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "GFSTAI",
+      "partnerName12": "Go First Travel",
+      "invamountSysCurTotal": 19778,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "LSTTAI",
+      "partnerName12": "Long Shine Travel Service Co., Ltd",
+      "invamountSysCurTotal": 19527.3,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "SHECHI",
+      "partnerName12": "Hubei Sadlerlover International Travel Agency CO.LTD",
+      "invamountSysCurTotal": 18857.05,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "CISCHI",
+      "partnerName12": "China International Travel Service Shenzhen Co., Ltd",
+      "invamountSysCurTotal": 18232.09,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "OEULON",
+      "partnerName12": "Operation Europe [Vosaio]",
+      "invamountSysCurTotal": 18072.46,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "BFTTHA",
+      "partnerName12": "Bluefly Travel (Thailand) Co., Ltd.",
+      "invamountSysCurTotal": 17976,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "FCTBRA",
+      "partnerName12": "Foca Tur Agencia de Viagens",
+      "invamountSysCurTotal": 17903,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "TOVVIE",
+      "partnerName12": "Top Viet Travel JSC",
+      "invamountSysCurTotal": 17484,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "CHAIDN",
+      "partnerName12": "Chan Brothers Travel Indonesia",
+      "invamountSysCurTotal": 16968,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "AAHTHA",
+      "partnerName12": "A \u0026 A Holiday Special Co.,Ltd.",
+      "invamountSysCurTotal": 16432,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "ENJIDN",
+      "partnerName12": "Enjoy Wisata",
+      "invamountSysCurTotal": 14368,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "LOVTAI",
+      "partnerName12": "INSTYLE Travel Company",
+      "invamountSysCurTotal": 13077,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "MOSHKG",
+      "partnerName12": "Morning Star Travel",
+      "invamountSysCurTotal": 12408.9,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "HOBIDN",
+      "partnerName12": "Hobi Holidays Tour PT. Semesta Hobi Wisata",
+      "invamountSysCurTotal": 10872.52,
+      "turnoverPercentage": 0.1
+    },
+    {
+      "partner": "AKKUKR",
+      "partnerName12": "Akkord Tour Ltd",
+      "invamountSysCurTotal": 9551.85,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "NATBRA",
+      "partnerName12": "Nature Turismo",
+      "invamountSysCurTotal": 9360,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "OEXUSA",
+      "partnerName12": "OExplora",
+      "invamountSysCurTotal": 9033.67,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "VJLVIE",
+      "partnerName12": "VJ Links",
+      "invamountSysCurTotal": 5670,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "BARPOL",
+      "partnerName12": "Barbara Biuro Uslug Turystycznych",
+      "invamountSysCurTotal": 5167.5,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "BOUMAL",
+      "partnerName12": "Boustead Travel Services Sdn Bhd",
+      "invamountSysCurTotal": 4812,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "GENISR",
+      "partnerName12": "Genesis Tours",
+      "invamountSysCurTotal": 3178,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "SPTIDN",
+      "partnerName12": "Sky Pacific Tour",
+      "invamountSysCurTotal": 3036,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "SZTMYA",
+      "partnerName12": "Star Zone Travels \u0026 Tours Co., Ltd.",
+      "invamountSysCurTotal": 2500,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "EHOSWI",
+      "partnerName12": "e-hoi AG e-hoi AG",
+      "invamountSysCurTotal": 2498.31,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "OLWVIE",
+      "partnerName12": "O.L.W Tourist",
+      "invamountSysCurTotal": 936.06000000000006,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "BGCCHI",
+      "partnerName12": "China Bamboo Garden International Travel Services Co, LTD Chengdu Branch",
+      "invamountSysCurTotal": 341.26,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "GELGER",
+      "partnerName12": "Geldhauser Linien- und Reiseverkehr GmbH",
+      "invamountSysCurTotal": 123.3,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "INCIDN",
+      "partnerName12": "Travel Inc. Indonesia",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "TWTCAM",
+      "partnerName12": "2World Travel (Cambodia)",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "TMRBRA",
+      "partnerName12": "Turismar Viagens Salvador",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "RLTIDN",
+      "partnerName12": "Reuss Luxindo Tirtamandiri",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "TRXIDN",
+      "partnerName12": "TRAXIST TRAVEL",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "AGXBRA",
+      "partnerName12": "AGAXTUR VIAGENS",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "OBRBRA",
+      "partnerName12": "Obra de Maria - Brasilia",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "TCFUSA",
+      "partnerName12": "Tourcrafters",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "TKWTAI",
+      "partnerName12": "Chong Long Travel \u0026 Tours Ltd.",
+      "invamountSysCurTotal": 0,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "SLGBRA",
+      "partnerName12": "DoMundo Operadora",
+      "invamountSysCurTotal": -1500,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "MTTCAM",
+      "partnerName12": "MYT TOURS CO., LTD",
+      "invamountSysCurTotal": -2425,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "DWIIDN",
+      "partnerName12": "PT. Dayawisata Inti Indah",
+      "invamountSysCurTotal": -2913.5,
+      "turnoverPercentage": 0
+    },
+    {
+      "partner": "WIJIDN",
+      "partnerName12": "Wita Tour",
+      "invamountSysCurTotal": -5198.68,
+      "turnoverPercentage": 0
+    }
+  ]
+}
