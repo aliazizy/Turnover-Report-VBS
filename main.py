@@ -5,11 +5,44 @@ from fastapi.middleware.cors import CORSMiddleware
 
 import io, json, logging, time
 from typing import List, Dict, Any
+from openpyxl.drawing.image import Image as XLImage
 
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 from openpyxl.drawing.image import Image as XLImage
+import os
+from pathlib import Path
+
+LOG = logging.getLogger("turnover-api")
+
+BASE_DIR = Path(__file__).resolve().parent
+DEFAULT_LOGO_PATH = BASE_DIR / "logo.png"              # bundled file
+ENV_LOGO_PATH = os.getenv("LOGO_PATH")                 # e.g., /home/site/wwwroot/logo.png
+ENV_LOGO_URL  = os.getenv("LOGO_URL")                  # e.g., https://.../logo.png (SAS/Blob/CDN)
+
+# If a URL is provided, fetch once into temp file
+_cached_logo_file = None
+if ENV_LOGO_URL:
+    try:
+        import requests, tempfile
+        resp = requests.get(ENV_LOGO_URL, timeout=10)
+        resp.raise_for_status()
+        tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".png")
+        tmp.write(resp.content); tmp.flush(); tmp.close()
+        _cached_logo_file = Path(tmp.name)
+        LOG.info(f"Downloaded logo from URL to {_cached_logo_file}")
+    except Exception as e:
+        LOG.warning(f"Failed to download logo from LOGO_URL: {e}")
+
+def resolve_logo_path() -> Path | None:
+    if _cached_logo_file and _cached_logo_file.exists():
+        return _cached_logo_file
+    if ENV_LOGO_PATH and Path(ENV_LOGO_PATH).exists():
+        return Path(ENV_LOGO_PATH)
+    if DEFAULT_LOGO_PATH.exists():
+        return DEFAULT_LOGO_PATH
+    return None
 
 # ---------------- Logging ----------------
 logging.basicConfig(
@@ -192,12 +225,9 @@ def build_workbook(payload: Dict[str, Any]) -> io.BytesIO:
         max_len_in_data = 0
         for row in rows:
             max_len_in_data = max(max_len_in_data, len(str(row.get(key, ""))))
-        ws.column_dimensions[get_column_letter(idx)].width = max(len(str(cap)), max_len_in_data) + 2
-
-    if percent_col_idx:
-        col_letter = get_column_letter(percent_col_idx)
-        current_width = ws.column_dimensions[col_letter].width or 10
-        ws.column_dimensions[col_letter].width = current_width * 3
+        ws.column_dimensions[get_column_letter(idx)].width = max(len(str(cap)), max_len_in_data) + 5
+    
+    
 
     # Number formats
     if turnover_col_idx:
@@ -243,15 +273,18 @@ def build_workbook(payload: Dict[str, Any]) -> io.BytesIO:
 
     # ----- Logo (logo.png) near H2 (if present) -----
     try:
-        img = XLImage("logo.png")
-        # Set exact size in pixels (~2.9" x 0.42")
-        img.width = 280   # px
-        img.height = 40   # px
-
-        ws.add_image(img, "H2")
+        logo_path = resolve_logo_path()
+        if logo_path:
+            img = XLImage(str(logo_path))
+            # exact size ~ 2.9" x 0.42" at 96 DPI
+            img.width = 278  # px
+            img.height = 40  # px
+            ws.add_image(img, "H2")
+            logger.info(f"Logo added from {logo_path}")
+        else:
+            logger.info("Logo not found (no DEFAULT/ENV/URL). Skipping.")
     except Exception as e:
-        logger.info(f"Logo not added: {e}")
-
+        logger.warning(f"Logo not added: {e}")
     # ----- Save & self-validate -----
     buf = io.BytesIO()
     wb.save(buf)

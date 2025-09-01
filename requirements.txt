@@ -6,3 +6,4 @@ gunicorn==22.0.0
 python-dotenv
 python-jose 
 requests
+Pillow>=10.0
